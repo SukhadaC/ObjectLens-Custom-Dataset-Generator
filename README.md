@@ -1,2 +1,2 @@
 # object_tracking
-Easy OpenCV Python Object Tracking Application using selectROI
+KCF Tracker and Dataset Creator: Created a Python-based system leveraging the KCF tracking algorithm for real-time object tracking. Designed features for frame capture and storage, allowing the saving of frames in various formats locally. Additionally, the project generated XML files containing essential object information, including name and size, contributing to the development of a custom dataset for model training. Key skills demonstrated include Python programming, image processing, and the utilization of OpenCV for cutting-edge computer vision applications."
